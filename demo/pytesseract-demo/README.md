@@ -1,5 +1,7 @@
 
 ```bash
+# install tesseract 
+# https://github.com/UB-Mannheim/tesseract/wiki
 $ pip install pytesseract
 ```
 
