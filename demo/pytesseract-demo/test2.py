@@ -5,7 +5,7 @@ import pytesseract
 # pytesseract.pytesseract.tesseract_cmd = 'System_path_to_tesseract.exe'
   
 # Read image from which text needs to be extracted 
-img = cv2.imread("../images/5.jpg") 
+img = cv2.imread("../images/4.jpg") 
   
 # Preprocessing the image starts 
   
